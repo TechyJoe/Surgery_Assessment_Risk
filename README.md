@@ -1,0 +1,1 @@
+This project is a machine learning-based solution to predict the likelihood of surgical complications for patients based on their medical history, demographics, and surgery details. The dataset includes synthetic patient records, and the model uses logistic regression for classification.
