@@ -1,0 +1,51 @@
+PatientID,Age,Sex,BMI,Smoking,Diabetes,Hypertension,HeartDisease,SurgeryType,Procedure,AnesthesiaType,Duration (min),Complication
+1,45,Male,27.3,No,Yes,Yes,No,General Surgery,Appendectomy,General,90,No
+2,62,Female,30.1,Yes,Yes,Yes,Yes,Cardiovascular,Coronary Bypass Surgery,General,180,Yes
+3,29,Male,24.7,No,No,No,No,Orthopedic,Knee Arthroscopy,Regional,60,No
+4,51,Female,28.9,Yes,No,Yes,Yes,Gastrointestinal,Gallbladder Removal,General,120,Yes
+5,38,Female,22.5,No,No,No,No,Obstetrics,Cesarean Section,Spinal,75,No
+6,70,Male,32.8,Yes,Yes,Yes,Yes,Orthopedic,Hip Replacement,General,150,Yes
+7,55,Female,29.4,No,No,Yes,No,Gynecological,Total Hysterectomy,General,140,No
+8,40,Male,26.0,Yes,No,No,No,General Surgery,Hernia Repair,Local,50,No
+9,47,Male,28.5,Yes,Yes,Yes,Yes,Urology,Prostate Surgery,Regional,90,No
+10,63,Female,35.0,Yes,Yes,Yes,Yes,Neurological,Spinal Fusion,General,210,Yes
+11,34,Female,32.5,No,No,No,No,Urology,Gallbladder Removal,Local,38,Yes
+12,78,Male,25.8,Yes,Yes,Yes,No,Gastrointestinal,Hernia Repair,Regional,64,Yes
+13,33,Female,32.2,Yes,No,Yes,Yes,Neurological,Coronary Bypass Surgery,General,37,Yes
+14,64,Female,19.0,Yes,Yes,Yes,No,Obstetrics,Knee Arthroscopy,General,164,No
+15,58,Female,39.6,Yes,Yes,Yes,No,Gynecological,Spinal Fusion,Regional,140,No
+16,49,Female,32.9,Yes,No,No,No,Obstetrics,Gallbladder Removal,General,50,No
+17,56,Male,26.8,No,Yes,Yes,No,Gynecological,Prostate Surgery,Local,60,Yes
+18,57,Female,34.6,No,Yes,No,Yes,Orthopedic,Hernia Repair,Spinal,233,No
+19,30,Female,39.2,No,No,Yes,Yes,Neurological,Appendectomy,Local,289,Yes
+20,47,Female,27.5,Yes,Yes,No,No,Gynecological,Appendectomy,Spinal,176,No
+21,24,Female,18.2,No,Yes,Yes,Yes,General Surgery,Hip Replacement,Regional,286,Yes
+22,26,Female,23.7,Yes,No,No,No,General Surgery,Coronary Bypass Surgery,Regional,242,Yes
+23,37,Male,29.2,Yes,Yes,No,Yes,Cardiovascular,Total Hysterectomy,Spinal,246,No
+24,18,Male,29.4,No,No,Yes,Yes,Neurological,Knee Arthroscopy,General,235,No
+25,78,Male,30.8,No,No,Yes,Yes,General Surgery,Hernia Repair,Regional,72,No
+26,43,Male,30.7,Yes,Yes,No,Yes,Cardiovascular,Coronary Bypass Surgery,Spinal,108,Yes
+27,39,Female,27.8,Yes,No,No,No,Orthopedic,Gallbladder Removal,General,172,No
+28,71,Male,26.6,No,No,Yes,Yes,Neurological,Total Hysterectomy,Spinal,72,Yes
+29,57,Female,35.0,No,Yes,No,No,Neurological,Coronary Bypass Surgery,Regional,188,No
+30,42,Female,30.9,No,No,Yes,No,General Surgery,Coronary Bypass Surgery,Regional,70,No
+31,69,Male,29.0,Yes,Yes,No,Yes,Urology,Coronary Bypass Surgery,Local,291,No
+32,73,Female,25.6,Yes,Yes,Yes,No,Gastrointestinal,Hip Replacement,Spinal,134,Yes
+33,39,Female,18.5,Yes,No,Yes,No,Orthopedic,Hip Replacement,General,109,No
+34,46,Male,20.3,No,No,No,No,Obstetrics,Cesarean Section,Regional,197,Yes
+35,39,Female,27.2,Yes,Yes,Yes,No,Orthopedic,Knee Arthroscopy,Local,230,No
+36,45,Male,39.2,Yes,Yes,No,Yes,Obstetrics,Total Hysterectomy,Local,63,Yes
+37,70,Female,20.6,Yes,No,No,Yes,Cardiovascular,Knee Arthroscopy,General,188,No
+38,70,Male,38.7,No,No,No,No,Gynecological,Knee Arthroscopy,Regional,253,Yes
+39,73,Female,21.1,No,Yes,Yes,No,Obstetrics,Coronary Bypass Surgery,Local,152,Yes
+40,59,Female,24.9,Yes,No,No,No,Cardiovascular,Prostate Surgery,General,59,Yes
+41,80,Male,28.0,No,Yes,Yes,No,Gynecological,Spinal Fusion,General,155,Yes
+42,56,Female,22.6,Yes,No,Yes,No,Orthopedic,Appendectomy,Spinal,74,Yes
+43,26,Female,28.6,No,Yes,Yes,No,General Surgery,Spinal Fusion,Spinal,252,Yes
+44,37,Female,28.5,No,Yes,No,Yes,Urology,Knee Arthroscopy,Regional,89,Yes
+45,38,Female,27.6,No,No,No,Yes,Obstetrics,Hernia Repair,Local,262,Yes
+46,56,Male,33.3,No,No,Yes,No,Gastrointestinal,Hip Replacement,Local,58,No
+47,78,Female,25.0,No,No,Yes,No,Urology,Gallbladder Removal,Spinal,188,No
+48,62,Male,24.6,Yes,No,Yes,Yes,Cardiovascular,Knee Arthroscopy,Regional,119,No
+49,30,Male,35.8,No,No,Yes,No,Cardiovascular,Total Hysterectomy,Local,91,Yes
+50,48,Male,20.5,No,No,Yes,Yes,General Surgery,Spinal Fusion,General,36,Yes
